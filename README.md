@@ -7,14 +7,25 @@ The official repository for **RAID: Retrieval-Augmented Anomaly Detection**. Cod
 We propose RAID, a retrieval-augmented UAD framework designed for noise-resilient anomaly detection and localization. Unlike standard RAG that enriches context or knowledge, we focus on using retrieved normal samples to guide noise suppression in anomaly map generation. RAID retrieves class-, semantic-, and instance-level representations from a hierarchical vector database, forming a coarse-to-fine pipeline. A matching cost volume correlates the input with retrieved exemplars, followed by a guided Mixture-of-Experts (MoE) network that leverages the retrieved samples to adaptively suppress matching noise
 and produce fine-grained anomaly maps.
 
-## 🚀 Training
+## Installation
 
-### 1. Prepare Dataset
+```bash
+git clone xxx
+cd xxx
+pip install -r requirements.txt
 
-We evaluate RAID on standard anomaly detection benchmarks:
+## 6. 📊 Dataset
+
+```markdown
+## Dataset
+
+We evaluate on:
 
 - MVTec-AD
 - VisA
+
+## 🚀 Training
+
 ### 2. train RAID
 python run_train.py --dataset MVTec --num_seeds 1 --preprocess masking_only
 ### 3. test RAID
