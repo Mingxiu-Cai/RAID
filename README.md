@@ -15,6 +15,9 @@ We evaluate RAID on standard anomaly detection benchmarks:
 
 - MVTec-AD
 - VisA
-- BTAD
+### 2. train RAID
+python run_train.py --dataset MVTec --num_seeds 1 --preprocess masking_only
+### 3. test RAID
+python run_test.py --dataset MVTec --num_seeds 1 --preprocess masking_only
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
