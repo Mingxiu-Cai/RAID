@@ -17,19 +17,14 @@ pip install -r requirements.txt
 
 ##  📊 Dataset
 
-
-## Dataset
-
 We evaluate on:
 
 - MVTec-AD
 - VisA
 
 ## 🚀 Training
-
-### 2. train RAID
 python run_train.py --dataset MVTec --num_seeds 1 --preprocess masking_only
-### 3. test RAID
+###  Evaluation
 python run_test.py --dataset MVTec --num_seeds 1 --preprocess masking_only
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
