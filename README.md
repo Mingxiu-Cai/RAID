@@ -10,10 +10,6 @@ and produce fine-grained anomaly maps.
 ## Installation
 
 
-git clone xxx
-cd xxx
-pip install -r requirements.txt
-
 
 ##  📊 Dataset
 
