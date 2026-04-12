@@ -32,7 +32,7 @@ python run_train_mvtec.py --dataset MVTec --num_seeds 1 --preprocess masking_onl
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## News
-- **Nov 13, 2025** — Paper submitted to CVPR  
+- **Nov 13, 2025** — Paper submitted to CVPR 2026 
 - **Feb 22, 2026** — Paper accepted 🎉  
 - **Apr 12, 2026** — Code released
 
