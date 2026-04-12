@@ -12,7 +12,8 @@ Create a new conda environment and install the required packages using the envir
 
 
 ```bash
-conda env create -f environment.yaml '''
+conda env create -f environment.yaml
+``` 
 
 
 ##  📊 Dataset
@@ -25,9 +26,10 @@ We evaluate on:
 ## 🚀 Running
 ```bash
 python run_train_visa.py --dataset VisA --num_seeds 1 --preprocess masking_only
+``` 
 or
 ```bash
 python run_train_mvtec.py --dataset MVTec --num_seeds 1 --preprocess masking_only
-
+``` 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
