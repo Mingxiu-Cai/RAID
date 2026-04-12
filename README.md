@@ -8,7 +8,7 @@ We propose RAID, a retrieval-augmented UAD framework designed for noise-resilien
 and produce fine-grained anomaly maps.
 
 ## Installation
-Create a new conda environment and install the required packages using the environment.yaml file.
+Create a new conda environment and install the required packages using the environment.yaml file
 
 
 ```bash
@@ -33,3 +33,15 @@ python run_train_mvtec.py --dataset MVTec --num_seeds 1 --preprocess masking_onl
 ``` 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Cite
+If you find this repository useful in your research/project, please consider citing the paper:
+```bash
+@article{cai2026raid,
+  title={RAID: Retrieval-Augmented Anomaly Detection},
+  author={Cai, Mingxiu and Zhang, Zhe and Wu, Gaochang and Chai, Tianyou and Zhu, Xiatian},
+  journal={arXiv preprint arXiv:2602.19611},
+  year={2026}
+}
+```
+
