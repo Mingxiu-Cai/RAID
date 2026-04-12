@@ -18,9 +18,7 @@ We evaluate on:
 - MVTec-AD
 - VisA
 
-## 🚀 Training
-python run_train.py --dataset MVTec --num_seeds 1 --preprocess masking_only
-###  Evaluation
-python run_test.py --dataset MVTec --num_seeds 1 --preprocess masking_only
+## 🚀 Running
+python run_train_visa.py --dataset VisA --num_seeds 1 --preprocess masking_only
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
