@@ -18,10 +18,7 @@ conda env create -f environment.yaml
 
 ##  📊 Dataset
 
-We evaluate on:
-
-- MVTec-AD
-- VisA
+Download and prepare the datasets MVTec-AD and VisA from their official sources.
 
 ## 🚀 Running
 ```bash
