@@ -9,8 +9,10 @@ and produce fine-grained anomaly maps.
 
 ## Installation
 Create a new conda environment and install the required packages using the environment.yaml file.
+
+
 ```bash
-conda env create -f environment.yaml
+conda env create -f environment.yaml '''
 
 
 ##  📊 Dataset
