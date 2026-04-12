@@ -18,7 +18,7 @@ conda env create -f environment.yaml
 
 ##  📊 Dataset
 
-Download and prepare the datasets MVTec-AD and VisA from their official sources.
+Download and prepare the datasets MVTec-AD(https://www.mvtec.com/research-teaching/datasets/mvtec-ad) and VisA(https://github.com/amazon-science/spot-diff) from their official sources.
 
 ## 🚀 Running
 ```bash
