@@ -1,5 +1,5 @@
 # RAID: Retrieval-Augmented Anomaly Detection
-### [Project Page](https://github.com/Mingxiu-Cai/RAID) | [Paper]()
+### [Project Page](https://github.com/Mingxiu-Cai/RAID) | [Paper](https://arxiv.org/abs/2602.19611)
 
 The official repository for **RAID: Retrieval-Augmented Anomaly Detection**. Code coming soon!
 
