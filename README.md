@@ -39,7 +39,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 -  **Apr 12, 2026** — Code released
 
 ## Acknowledgements
-We sincerely thank the authors of [AnomalyDINO](https://github.com/dammsi/AnomalyDINO?tab=readme-ov-file) and [CostFilter-AD](https://github.com/ZHE-SAPI/CostFilter-AD/tree/main) for their concise, effective, and well-organized implementations.
+We sincerely thank [AnomalyDINO](https://github.com/dammsi/AnomalyDINO?tab=readme-ov-file) and [CostFilter-AD](https://github.com/ZHE-SAPI/CostFilter-AD/tree/main) for their concise, effective, and well-organized implementations.
 
 
 ## Citation
