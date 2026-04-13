@@ -38,9 +38,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Feb 23, 2026** — Paper released on arXiv
 -  **Apr 12, 2026** — Code released
 
+## Acknowledgements
 
 
-## Cite
+## Citation
 If you find this repository useful in your research/project, please consider citing the paper:
 ```bash
 @article{cai2026raid,
