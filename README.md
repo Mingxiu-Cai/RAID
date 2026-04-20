@@ -8,7 +8,7 @@ We propose RAID, a retrieval-augmented UAD framework designed for noise-resilien
 and produce fine-grained anomaly maps.
 
 ## Installation
-Create a new conda environment and install the required packages using the environment.yaml file
+Create a new conda environment and install the required packages using the environment.yml file
 
 
 ```bash
