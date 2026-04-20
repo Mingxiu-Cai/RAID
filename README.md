@@ -12,7 +12,7 @@ Create a new conda environment and install the required packages using the envir
 
 
 ```bash
-conda env create -f environment.yaml
+conda env create -f environment.yml
 ``` 
 
 
